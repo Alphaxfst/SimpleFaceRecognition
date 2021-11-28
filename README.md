@@ -1,1 +1,1 @@
-Tugas Kecerdasan Buatan 2020
+Workshop Kecerdasan Buatan 2020
